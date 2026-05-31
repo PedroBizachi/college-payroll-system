@@ -95,15 +95,12 @@ Ao informar a opção 4, o sistema deve apresentar todos os dados de cada colabo
 Exemplo:
 
 ```
-4
 Total de pessoas cadastradas: 3
 
-                              | Pessoa 1 | Pessoa 2 | Pessoa 3 |
-|Nome                         | Flavio   | Maria    | Paulo    |
-|Matrícula                    | 123      | 234      | 456      |
-|Salário Fixo                 | 1500.0   | 1500.0   | 1500.0   |
-|Extras/comissão/produtividade| 0.0      | 400.0    | 15.0     |
-|Salário final                | 1500.0   | 1900.0   | 1515.0   |
+|Nome   | Matrícula | Salário Fixo | Vendas / Quant. | % / Bônus | Salário Final |
+|Flavio | 123       | 1500.0       | 0.0             | 0.0       | 1500.0        |
+|Maria  | 234       | 1500.0       | 4000.0          | 0.1       | 1900.0        |
+|Paulo  | 1500.0    | 1500.0       | 3               | 5.0       | 1515.0        |
 ```
 
 0. **Sair do Programa**
